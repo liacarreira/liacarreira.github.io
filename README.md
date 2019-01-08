@@ -6,6 +6,7 @@ ___
 # Lia Carreira
 
 **Artist** | **Researcher**
+
 ___
 
 ### Bio 
@@ -22,6 +23,7 @@ Lia has a Master in Media Arts Cultures (Danube University, Aalborg University,
 City University of Hong Kong) and a first Master in Media Technologies and Aesthetics (UFRJ, Brazil) 
 and a Bachelor in Media Studies (UFES, Brazil).
 
+___
 
 **[Ongoing projects]**
 
