@@ -1,5 +1,5 @@
 
-#### [Bio](https://liacarreira.github.io/#bio)  | [Projects](https://liacarreira.github.io/#ongoingprojects)| [Contact](https://liacarreira.github.io/#contact)
+#### [Bio](https://liacarreira.github.io/#bio)  | [Projects](https://liacarreira.github.io/#ongoing_projects)| [Contact](https://liacarreira.github.io/#contact)
 
 ___
 
