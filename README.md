@@ -1,5 +1,5 @@
 
-#### [Bio](https://liacarreira.github.io/#bio)  | [Projects](https://liacarreira.github.io/#projects) | [Research](https://liacarreira.github.io/#research) | [Contact](https://liacarreira.github.io/#contact)
+#### [Bio](https://liacarreira.github.io/#bio)  | [Projects](https://liacarreira.github.io/#projects) | [Research](https://liacarreira.github.io/#research) | [Contact](https://liacarreira.github.io/#contact) | [CV](https://github.com/liacarreira/liacarreira.github.io/blob/master/cv.md)
 
 ___
 
