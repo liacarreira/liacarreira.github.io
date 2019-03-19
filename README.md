@@ -60,10 +60,15 @@ ___
 **[Research projects]**
 
 [2017-2018] **Artificial Intelligence in the Arts** @ ZKM - Zentrum für Kunst und Medien 
+
 [2016-2017] **Experimental Curating: strategies and platforms for online-based art** @ Dabune University / ZKM 
+
 [2016] **Art On Your Screen [case study]** @ ZKM - Zentrum für Kunst und Medien 
+
 [2013-2015] **Image Studies and Big Data** @ Labic - Laboratório de Estudos em Imagem e Cibercultura / UFES
+
 [2011-2013] **Digital art and Image Appropriation** @ Escola de Comunicação / Federal University of Rio de Janeiro 
+
 [2009-2010] **Digital Image Cultures** @ Federal University of Espírito Santo 
 
 ___
