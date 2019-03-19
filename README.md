@@ -1,5 +1,5 @@
 
-#### [Bio](https://liacarreira.github.io/#bio)  | [Projects](https://liacarreira.github.io/#ongoing_projects) | [Research](https://liacarreira.github.io/#research_projects) | [Contact](https://liacarreira.github.io/#contact)
+#### [Bio](https://liacarreira.github.io/#bio)  | [Projects](https://liacarreira.github.io/#projects) | [Research](https://liacarreira.github.io/#research) | [Contact](https://liacarreira.github.io/#contact)
 
 ___
 
@@ -38,6 +38,8 @@ Youtube, Twitch and Hangout.
 
 ___
 
+### Projects
+
 **[Past projects]**
 
 [2018] **ARE - Magno Caliman** @ Concordia, Enschede, Netherlands
@@ -57,7 +59,7 @@ ___
 
 ___
 
-**[Research projects]**
+### Research
 
 [2017-2018] **Artificial Intelligence in the Arts** @ ZKM - Zentrum für Kunst und Medien 
 
