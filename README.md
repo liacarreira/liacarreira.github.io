@@ -23,6 +23,8 @@ and a Bachelor in Media Studies (UFES, Brazil).
 
 ___
 
+### Projects
+
 **[Ongoing projects]**
 
 [**Oberrō**](https://oberro.github.io/) is a communal project in which practitioners from multiple fields and regions engage and develop collaborative and experimental practices. The name Oberrō, which means both “to wander among” and “to err”, carries the founding concepts and structures of the project: as a non-physical platform for artistic thinking and making, composed by an ever-changing group of nomadic practitioners with diverse backgrounds, the project refutes the establishment of borders, becoming a morphing and erratic initiative which envisions a diverse range of experimental practices, thus accepting the possibility and potentials of error/failures. 
@@ -37,8 +39,6 @@ online exhibition and archiving in times of online video sharing platforms and s
 Youtube, Twitch and Hangout.
 
 ___
-
-### Projects
 
 **[Past projects]**
 
