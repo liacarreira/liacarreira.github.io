@@ -13,7 +13,7 @@ ___
 
 As an **artist**, she explores existing technologies as potential platforms for engagement and agency in order to discuss and unravel contemporary modes and understandings of being. As a **curator**, she develops collaborative and experimental strategies and platforms for Art and Technology. Her **research** lies in the intersection of Curatorial Studies and Software Studies, addressing key challenges in curating software-based art. 
 
-> Media Artits 
+> Media Artist 
 
 > Artist-curator @ [Oberrō](https://oberro.github.io/)
 
