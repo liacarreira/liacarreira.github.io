@@ -4,6 +4,7 @@
 ___
 
 # Lia Carreira
+Media Artist / Artist-curator @ [Oberrō](https://oberro.github.io/) / Curator @ [SOMAR - Lisbon](http://somarlisboa.com/wp/) / translator and contributing editor @ Scale Resistance (Publication Lab) 
 
 ___
 
@@ -12,10 +13,6 @@ ___
 **Lia Carreira** (1985, Brazil) is a media artist, curator and researcher, currently based in Lisbon, Portugal.
 
 As an **artist**, she explores existing technologies as potential platforms for engagement and agency in order to discuss and unravel contemporary modes and understandings of being. As a **curator**, she develops collaborative and experimental strategies and platforms for Art and Technology. Her **research** lies in the intersection of Curatorial Studies and Software Studies, addressing key challenges in curating software-based art. 
-
-> Media Artist 
-
-> Artist-curator @ [Oberrō](https://oberro.github.io/)
 
 Lia has a Master in Media Arts Cultures (Danube University, Aalborg University, University of Lodz and 
 City University of Hong Kong), a first Master in Media Technologies and Aesthetics (UFRJ, Brazil) 
@@ -30,7 +27,12 @@ ___
 [**Oberrō**](https://oberro.github.io/) is a communal project in which practitioners from multiple fields and regions engage and develop collaborative and experimental practices. The name Oberrō, which means both “to wander among” and “to err”, carries the founding concepts and structures of the project: as a non-physical platform for artistic thinking and making, composed by an ever-changing group of nomadic practitioners with diverse backgrounds, the project refutes the establishment of borders, becoming a morphing and erratic initiative which envisions a diverse range of experimental practices, thus accepting the possibility and potentials of error/failures. 
 > [Oberrō Artist-run Residencies (OARs)](https://oaresidencies.github.io/)
 
+[**SOMAR Lisbon**](http://somarlisboa.com/wp/)
+SOMAR is a new space in Lisbon dedicated to sound, art and technology. It promotes courses, exhibitions, concerts, talks and presentations in different formats.
+
 **The Exhibition Space as a Laboratory** is a research project in the intersection of Curatorial Studies with Software Studies, which aims to transform the exhibition space into a “laboratory”, where the exhibition is made open to experimentation of multiple natures (artistic, curatorial and scientific), becoming a space not only for the experience of art, but also for research, innovation and knowledge production.
+
+**Scale Resistance: Technosphere in the mud** is a publishing lab and publication project in collaboration between [Silo - Arte e Latitude Rural](https://silo.org.br/) and [continent.](http://continentcontinent.cc/index.php/continent) to be launched in 2019.  
 
 **Bite to Byte** is a video documentation project which explores the potentials of online culture and 
 platforms in order to share experiences, knowledge and concerns regarding food distribution issues across the globe. 
