@@ -44,20 +44,16 @@ ___
 
 **[Past projects]**
 
-[2018] **ARE - Magno Caliman** @ Concordia, Enschede, Netherlands
-> Exhibition Development +
+[2018] **ARE: Magno Caliman** | Exhibition Development | Concordia, Enschede, Netherlands
 
-[2018] **Oberrō (OAR exhibition)** @ Home exhibition, Sarajevo, Bosnia-Herzegovina
-> Artist-curator 
+[2018] **Oberrō (OAR exhibition)** | Artist/Curator | Sarajevo, Bosnia-Herzegovina.
 
-[2017] **Fragments of [online] Existence** @ Centro Cultural Las Cigarreras, Alicante, Spain
-> Artist 
+[2017] **Fragments of [online] Existence** | Artist/Exhibition Development |  C. C. Las Cigarreras, Alicante, Spain. 
 
-[2016] **Fragments of [online] Existence** @ Artistic Bokeh, MuseumsQuartier, Vienna, Austria
-> Artist in Residence @ RIAT 
+[2017] **Fragments of [online] Existence** | Artist/Exhibtion Development | Artistic Bokeh, MuseumsQuartier, Vienna, Austria
 
-[2016] **Alientopias** @ Foreign Objects, CREATE, Aalborg, Denmark
-> Artist / Exhibition Development 
+[2016] **Alientopias** | Foreign Objects, CREATE, Aalborg, Denmark.
+
 
 ___
 
@@ -74,6 +70,7 @@ ___
 [2011-2013] **Digital art and Image Appropriation** @ Escola de Comunicação / Federal University of Rio de Janeiro 
 
 [2009-2010] **Digital Image Cultures** @ Federal University of Espírito Santo 
+
 
 ___
 
