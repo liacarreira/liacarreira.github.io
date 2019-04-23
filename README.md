@@ -44,15 +44,15 @@ ___
 
 **[Past projects]**
 
-[2018] **ARE: Magno Caliman** | Exhibition Development | Concordia, Enschede, Netherlands
+[2018] **ARE: Magno Caliman** / Exhibition Development / Concordia, Enschede, Netherlands
 
-[2018] **Oberrō (OAR exhibition)** | Artist/Curator | Sarajevo, Bosnia-Herzegovina.
+[2018] **Oberrō (OAR exhibition)** / Artist/Curator / Sarajevo, Bosnia-Herzegovina.
 
-[2017] **Fragments of [online] Existence** | Artist/Exhibition Development |  C. C. Las Cigarreras, Alicante, Spain. 
+[2017] **Fragments of [online] Existence** / Artist/Exhibition Development /  C. C. Las Cigarreras, Alicante, Spain. 
 
-[2017] **Fragments of [online] Existence** | Artist/Exhibtion Development | Artistic Bokeh, MuseumsQuartier, Vienna, Austria
+[2017] **Fragments of [online] Existence** / Artist/Exhibtion Development / Artistic Bokeh, MuseumsQuartier, Vienna, Austria
 
-[2016] **Alientopias** | Foreign Objects, CREATE, Aalborg, Denmark.
+[2016] **Alientopias** / Foreign Objects, CREATE, Aalborg, Denmark.
 
 
 ___
