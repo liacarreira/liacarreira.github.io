@@ -34,8 +34,6 @@ SOMAR is a new space in Lisbon dedicated to sound, art and technology. It promot
 
 **Scale Resistance: Technosphere in the mud** is a publishing lab and publication project in collaboration between [Silo - Arte e Latitude Rural](https://silo.org.br/) and [continent.](http://continentcontinent.cc/index.php/continent) to be launched in 2019.  
 
-**AI-Curatorial Lab** 
-
 **Bite to Byte** is a video documentation project which explores the potentials of online culture and 
 platforms in order to share experiences, knowledge and concerns regarding food distribution issues across the globe. 
 As an artistic project developed for Ok.Video web residency, it aims to expand the notions of video documentation, 
