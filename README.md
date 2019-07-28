@@ -30,9 +30,11 @@ ___
 [**SOMAR Lisbon**](http://somarlisboa.com/wp/)
 SOMAR is a new space in Lisbon dedicated to sound, art and technology. It promotes courses, exhibitions, concerts, talks and presentations in different formats.
 
-**The Exhibition Space as a Laboratory** is a research project in the intersection of Curatorial Studies with Software Studies, which aims to transform the exhibition space into a “laboratory”, where the exhibition is made open to experimentation of multiple natures (artistic, curatorial and scientific), becoming a space not only for the experience of art, but also for research, innovation and knowledge production.
+[**The exhibition space as a laboratory**](PhDproject.md) is a PhD project which proposes to revisit past initiatives and document current strategies as to insert them within the historicization of curatorial practices, and to expand existing investigations in Curatorial Studies by taking into account the roles of and the relationships between the exhibition space, the laboratory and the experimental within those practices.
 
 **Scale Resistance: Technosphere in the mud** is a publishing lab and publication project in collaboration between [Silo - Arte e Latitude Rural](https://silo.org.br/) and [continent.](http://continentcontinent.cc/index.php/continent) to be launched in 2019.  
+
+**AI-Curatorial Lab** 
 
 **Bite to Byte** is a video documentation project which explores the potentials of online culture and 
 platforms in order to share experiences, knowledge and concerns regarding food distribution issues across the globe. 
@@ -58,6 +60,10 @@ ___
 ___
 
 ### Research
+
+[2019-2022] [[PhD] **The exhibition space as a laboratory**](PhDproject.md) @ Winchester School of Art, Southampton  University, UK
+
+[2019-2020] **Curating VR** @ SOMAR, Lisbon, Portugal
 
 [2017-2018] **Artificial Intelligence in the Arts** @ ZKM - Zentrum für Kunst und Medien 
 
