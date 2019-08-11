@@ -1,7 +1,13 @@
 **PhD Project**
 
+PhD in Art | Winchester School of Art | Southampton University (UK)
+
 **The exhibition space as a laboratory:** 
 experiments in curating Art and Technology
+
+Lia Carreira 
+
+Advisors: Prof. Ryan Bishop and Prof. Jussi Parikka
 
 **About the research:**
 
