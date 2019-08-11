@@ -12,10 +12,9 @@ ___
 
 **Lia Carreira** (1985, Brazil) is a media artist, curator and researcher, currently based in Lisbon, Portugal.
 
-As an **artist**, she explores existing technologies as potential platforms for engagement and agency in order to discuss and unravel contemporary modes and understandings of being. As a **curator**, she develops collaborative and experimental strategies and platforms for Art and Technology. Her **research** lies in the intersection of Curatorial Studies and Software Studies, addressing key challenges in curating software-based art. 
+As an **artist** and **curator** she explores existing technologies as potential platforms for engagement and agency in order to discuss and unravel contemporary modes and understandings of being. Her **research** lies in the intersection of Curatorial Studies and Software Studies, addressing key challenges in curating software-based art. 
 
-Lia has a Master in Media Arts Cultures (Danube University, Aalborg University, University of Lodz and 
-City University of Hong Kong), a first Master in Media Technologies and Aesthetics (UFRJ, Brazil) 
+Lia is a PhD candidate at the Winchester School of Art of the Southampton University (UK), developing research on Curatorial Labs and experimental practices. She has a Master in Media Arts Cultures (Danube University, Aalborg University, University of Lodz and City University of Hong Kong), a first Master in Media Technologies and Aesthetics (UFRJ, Brazil) 
 and a Bachelor in Media Studies (UFES, Brazil).
 
 ___
